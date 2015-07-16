@@ -1,0 +1,6 @@
+framework module POIImageSlider {
+  umbrella header "Pods-POIImageSlider_Tests-POIImageSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}

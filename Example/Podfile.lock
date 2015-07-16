@@ -1,0 +1,14 @@
+PODS:
+  - POIImageSlider (0.1.0)
+
+DEPENDENCIES:
+  - POIImageSlider (from `../`)
+
+EXTERNAL SOURCES:
+  POIImageSlider:
+    :path: ../
+
+SPEC CHECKSUMS:
+  POIImageSlider: 7c73de1f75bde55f72de2cc6a5a8554a5f245dcc
+
+COCOAPODS: 0.37.2
