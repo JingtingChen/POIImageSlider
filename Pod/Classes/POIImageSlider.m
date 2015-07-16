@@ -34,7 +34,6 @@
 -(void)setup{
     [self initScrollView];
     [self initImageView];
-    //    [self setImageViewData];
 }
 -(void)initScrollView{
     self.scrollView.showsHorizontalScrollIndicator = NO;

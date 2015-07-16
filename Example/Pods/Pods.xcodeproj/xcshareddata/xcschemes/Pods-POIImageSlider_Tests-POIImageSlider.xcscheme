@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "351825AB02FA072D3774DD9C"
+               BlueprintIdentifier = "2E6AF41152F8F8596267E3D6"
                BuildableName = "POIImageSlider.framework"
                BlueprintName = "Pods-POIImageSlider_Tests-POIImageSlider"
                ReferencedContainer = "container:Pods.xcodeproj">
