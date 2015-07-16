@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  POIImageSlider: 7c73de1f75bde55f72de2cc6a5a8554a5f245dcc
+  POIImageSlider: a7b3fb0901f9f85277b5936a5c766cecaf5fd3bd
 
 COCOAPODS: 0.37.2
