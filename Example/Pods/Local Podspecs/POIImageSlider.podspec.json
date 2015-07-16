@@ -1,6 +1,6 @@
 {
   "name": "POIImageSlider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "This is a Image Slider UI Library.",
   "description": "                       This is a Image Slider UI Library\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
   "homepage": "https://github.com/JingtingChen/POIImageSlider",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/JingtingChen/POIImageSlider.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "7.0"
